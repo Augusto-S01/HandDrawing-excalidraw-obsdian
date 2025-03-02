@@ -1,1 +1,0 @@
-# HandDrawing-excalidraw-obsdian
