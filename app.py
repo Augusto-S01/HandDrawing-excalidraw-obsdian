@@ -14,7 +14,6 @@ app.add_middleware(
 )
 
 ocr = PaddleOCR(lang="en")
-ocr.ocr("set.png", cls=True)
 
 
 @app.post("/ocr")
